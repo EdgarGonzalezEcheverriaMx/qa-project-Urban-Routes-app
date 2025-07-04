@@ -1,4 +1,4 @@
-Proyecto Sprint 8 Pruebas Automatizadas de Urban Routes
+Pruebas Automatizadas de Urban Routes
 
 Requisitos:
 
